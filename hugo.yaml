@@ -1,7 +1,9 @@
-baseURL: https://jjacobs.me/homepage-hugo/
+baseURL: https://jjacobs.me/
 languageCode: en-us
-title: My New Hugo Site
-theme: PaperMod
+title: Jeff's Rants
+theme: 
+  - PaperMod
+  - jj
 publishDir: docs
 ignoreFiles: [ "\\.qmd$", "\\.ipynb$", "\\.py$" ]
 menu:
@@ -74,7 +76,7 @@ params:
     # safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "Jeff's Rants"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
