@@ -4,5 +4,14 @@
   },
   "content/posts/hello-quarto/index.qmd": {
     "index.md": "bd3cec12"
+  },
+  "content/posts/dc-segregation/index.qmd": {
+    "index.md": "d3f9f98a"
+  },
+  "drafts/hello-quarto/index.qmd": {
+    "index.md": "d073e157"
+  },
+  "content/dc-segregation/index.qmd": {
+    "index.md": "18d794a1"
   }
 }
