@@ -2,21 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jjacobs.me/categories/</loc>
+    <loc>https://jjacobs.me/homepage-hugo/categories/</loc>
     <lastmod>2023-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jjacobs.me/categories/coordinates/</loc>
+    <loc>https://jjacobs.me/homepage-hugo/categories/coordinates/</loc>
     <lastmod>2023-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jjacobs.me/</loc>
+    <loc>https://jjacobs.me/homepage-hugo/</loc>
     <lastmod>2023-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jjacobs.me/categories/matplotlib/</loc>
+    <loc>https://jjacobs.me/homepage-hugo/categories/matplotlib/</loc>
     <lastmod>2023-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jjacobs.me/dc-segregation/</loc>
+    <loc>https://jjacobs.me/homepage-hugo/posts/</loc>
     <lastmod>2023-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jjacobs.me/tags/</loc>
+    <loc>https://jjacobs.me/homepage-hugo/posts/dc-segregation/</loc>
+    <lastmod>2023-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjacobs.me/homepage-hugo/tags/</loc>
   </url>
 </urlset>
