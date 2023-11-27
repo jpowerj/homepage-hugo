@@ -6,7 +6,7 @@ categories:
   - Coordinates
 format: hugo-md
 # weight: 1
-# aliases: ["/first"]
+aliases: ["/first"]
 # tags: ["first"]
 author: "Jeff Jacobs"
 # author: ["Me", "You"] # multiple authors
