@@ -1,7 +1,8 @@
-baseURL: https://example.org/
+baseURL: https://jjacobs.me/homepage-hugo/
 languageCode: en-us
 title: My New Hugo Site
 theme: PaperMod
+publishDir: docs
 ignoreFiles: [ "\\.qmd$", "\\.ipynb$", "\\.py$" ]
 menu:
   main:
